@@ -31,3 +31,4 @@ if milk_stock < 10:
     )
 else:
     print("Milk has sufficient stock.")
+print("Updated inventory:", grocery_inventory)
